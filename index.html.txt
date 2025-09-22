@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="refresh" content="0; url=https://www.roblox.com/share?code=693c5096aed7f540a871d6ce22a3ded9&type=Server" />
+    <meta property="og:title" content="PLS DONATE VIP Server" />
+    <meta property="og:description" content="Join the exclusive VIP server and start earning Robux! 💸" />
+    <meta property="og:image" content="https://i.postimg.cc/tnG0qcPH/pls-donate-preview.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <title>PLS DONATE VIP</title>
+  </head>
+  <body>
+    <p>Redirecting to VIP server...</p>
+  </body>
+</html>
